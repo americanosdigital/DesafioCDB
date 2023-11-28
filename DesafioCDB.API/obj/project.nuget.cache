@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/vBXffkL+H5i4+DqtFdaYcHrapXnU/i9v0PwE43tdAtHtKXm9wVSAcbVN/nvHxEfziAJ9QS4wq5NmYDeK6JsXA==",
+  "dgSpecHash": "Nth7cFjD8WnAGgjIWrKXwesH3Sw0XXbh6ONDBYr1wlA/BZk84QJLEsCC9Zg1umoUSaxUdgXWwAib2fMysKadlQ==",
   "success": true,
-  "projectFilePath": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.API\\DesafioCDB.API.csproj",
+  "projectFilePath": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB\\DesafioCDB.API\\DesafioCDB.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bigwelly76Gaming\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Bigwelly76Gaming\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
