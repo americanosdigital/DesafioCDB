@@ -1,0 +1,15 @@
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\bin\Debug\net6.0\DesafioCDB.Servicos.deps.json
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\bin\Debug\net6.0\DesafioCDB.Servicos.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\bin\Debug\net6.0\DesafioCDB.Servicos.pdb
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\bin\Debug\net6.0\DesafioCDB.Entidades.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\bin\Debug\net6.0\DesafioCDB.Entidades.pdb
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.csproj.AssemblyReference.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.AssemblyInfoInputs.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.AssemblyInfo.cs
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.csproj.CoreCompileInputs.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.csproj.CopyComplete
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\refint\DesafioCDB.Servicos.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\DesafioCDB.Servicos.pdb
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Services\obj\Debug\net6.0\ref\DesafioCDB.Servicos.dll

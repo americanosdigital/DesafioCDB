@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DesafioCDB.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioCDB.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioCDB.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioCDB.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../DesafioCDB.Domain/DesafioCDB.Entidades.csproj",
+      "msbuildProject": "../DesafioCDB.Domain/DesafioCDB.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DesafioCDB.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bigwelly76Gaming\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.Services\\DesafioCDB.Servicos.csproj",
+      "projectName": "DesafioCDB.Servicos",
+      "projectPath": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.Services\\DesafioCDB.Servicos.csproj",
+      "packagesPath": "C:\\Users\\Bigwelly76Gaming\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Bigwelly76Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.Domain\\DesafioCDB.Entidades.csproj": {
+              "projectPath": "E:\\Users\\Bigwelly76Gaming\\Source\\Repos\\DesafioCDB\\DesafioCDB.Domain\\DesafioCDB.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

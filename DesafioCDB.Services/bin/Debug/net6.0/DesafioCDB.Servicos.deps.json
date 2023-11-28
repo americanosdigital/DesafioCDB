@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioCDB.Servicos/1.0.0": {
+        "dependencies": {
+          "DesafioCDB.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "DesafioCDB.Servicos.dll": {}
+        }
+      },
+      "DesafioCDB.Entidades/1.0.0": {
+        "runtime": {
+          "DesafioCDB.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioCDB.Servicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioCDB.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

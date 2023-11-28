@@ -1,0 +1,2 @@
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Web\obj\Debug\DesafioCDB.Web.esproj.SuggestedBindingRedirects.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Web\obj\Debug\DesafioCDB.Web.esproj.CoreCompileInputs.cache
