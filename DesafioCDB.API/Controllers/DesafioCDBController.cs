@@ -15,13 +15,13 @@ namespace DesafioCDB.API.Controllers
             this.desafioCDBServico = _desafioCDBServico;
         }
 
-        [HttpGet("RetornarInicialFinal/{valorInicial}/{qtdMeses}")]
-        public IActionResult ReturnarCalculo(double valorInicial, int qtdMeses)
+        [HttpGet("RetornarInicialFinal/{valor}/{qtdMeses}")]
+        public IActionResult ReturnarCalculo(double valor, int qtdMeses)
         {
 
             try
             {
-                var resultadoCDB = desafioCDBServico.RetornarEstimativaCalculoCDB(valorInicial, qtdMeses);
+                var resultadoCDB = desafioCDBServico.RetornarEstimativaCalculoCDB(valor, qtdMeses);
 
                 return Ok(resultadoCDB);
             }

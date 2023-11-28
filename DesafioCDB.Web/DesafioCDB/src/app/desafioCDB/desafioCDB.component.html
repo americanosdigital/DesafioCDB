@@ -1,21 +1,36 @@
-<form class="example-form" [formGroup]="formGroup" class="container-center">
-  <div class="example-container">
-    <mat-form-field class="nome-width">
-      <mat-label>Valor</mat-label>
-      <input type="number" matInput formControlName="valor" placeholder="Valor">
-    </mat-form-field>
-    <mat-form-field class="nome-width">
-      <mat-label>Quantidade de meses</mat-label>
-      <input type="number" matInput formControlName="qtdMeses" placeholder="Quantidade de Meses">
-    </mat-form-field>
-    <button mat-flat-button color="primary" (click)="onSubmit(formGroup.value)" [disabled]="!formGroup.valid"
-      style="height: 57px; margin-bottom: 20px;">Calcular</button>
+<div class="container">
+  <div class="div1">
+    <div class="table-display">
+      <div class="cell-display div2">
+        <form [formGroup]="formGroup" class="container-center">    
+          <br />
+          <br />      
+          <mat-form-field class="full-width" appearance="outline">
+              <mat-label>Valor</mat-label>
+              <input type="number" matInput formControlName="valor" placeholder="Valor">
+            </mat-form-field>
+            <br />
+            <br />
+            <br />
+            <mat-form-field class="full-width" appearance="outline">
+              <mat-label>Quantidade de meses</mat-label>
+              <input type="number" matInput formControlName="qtdMeses" placeholder="Quantidade de Meses">
+            </mat-form-field>
+            <br />
+            <br />
+            <br />
+            <button class="submit-btn" color="primary" mat-raised-button (click)="onSubmit(formGroup.value)" [disabled]="!formGroup.valid">
+              Calcular
+            </button>
+        </form>
+      </div>      
+      <div class="cell-display div3">
+        <div *ngIf="valorInicial > 0" class="container-center" style="color:gray">          
+          <span colo>Valor Inicial: <input class="form-control" type="text" [value]="valorInicial" [(ngModel)]="valorInicial" > </span>        
+        </div>
+        <div *ngIf="valorFinal > 0" class="container-center" style="color:gray">
+          <span colo>Valor Final: <input class="form-control" type="text" [value]="valorFinal" [(ngModel)]="valorFinal" > </span>           
+        </div>
+    </div>
   </div>
-</form>
-
-<div *ngIf="valorInicial > 0" class="container-center" style="color:rgb(0, 221, 255)">
-  <span colo>Valor Inicial: {{valorInicial}}</span>
-</div>
-<div *ngIf="valorFinal > 0" class="container-center" style="color:rgb(0, 221, 255)">
-  <span>Valor Final: {{valorFinal}}</span>
 </div>

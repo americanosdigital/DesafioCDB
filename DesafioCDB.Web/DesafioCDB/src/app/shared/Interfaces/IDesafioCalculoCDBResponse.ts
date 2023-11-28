@@ -1,5 +1,4 @@
-export interface IDesafioCalculoCDBResponse {
-    
+export interface IDesafioCalculoCDBResponse {    
     valorInicial: number,
     valorFinal: number,
 }

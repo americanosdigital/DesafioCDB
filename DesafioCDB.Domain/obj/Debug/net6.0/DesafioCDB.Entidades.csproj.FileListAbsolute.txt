@@ -10,3 +10,15 @@ E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Domain\obj\Debug\ne
 E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\refint\DesafioCDB.Entidades.dll
 E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.pdb
 E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\ref\DesafioCDB.Entidades.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\bin\Debug\net6.0\DesafioCDB.Entidades.deps.json
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\bin\Debug\net6.0\DesafioCDB.Entidades.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\bin\Debug\net6.0\DesafioCDB.Entidades.pdb
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.csproj.AssemblyReference.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.AssemblyInfoInputs.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.AssemblyInfo.cs
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.csproj.CoreCompileInputs.cache
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\refint\DesafioCDB.Entidades.dll
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\DesafioCDB.Entidades.pdb
+E:\Users\Bigwelly76Gaming\Source\Repos\DesafioCDB\DesafioCDB\DesafioCDB.Domain\obj\Debug\net6.0\ref\DesafioCDB.Entidades.dll
